@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>res/help.bmp</file>
+        <file>res/arch.bmp</file>
+        <file>res/eye.bmp</file>
+        <file>res/graph.bmp</file>
+        <file>res/sign.bmp</file>
+        <file>res/trffc19a.bmp</file>
+        <file>res/eye_off.bmp</file>
+        <file>res/eye_on.bmp</file>
+    </qresource>
+</RCC>
